@@ -1,0 +1,33 @@
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.exe.config
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Release\NAudio.dll
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\MainWindow.g.cs
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\App.g.cs
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\MainWindow.baml
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.g.resources
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csproj.GenerateResource.Cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csprojResolveAssemblyReference.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.exe.config
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Release\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Release\NAudio.dll
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csprojAssemblyReference.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\MainWindow.g.cs
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\App.g.cs
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\MainWindow.baml
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.g.resources
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csproj.GenerateResource.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.csproj.CopyComplete
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Release\DigitalMusicAnalysis.pdb

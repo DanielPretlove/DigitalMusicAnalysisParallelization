@@ -1,0 +1,98 @@
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\App.g.cs
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.Cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csprojResolveAssemblyReference.cache
+H:\CAB401\Myassignment\DigitalMusic\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\App.g.cs
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - Copy\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\App.g.cs
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\Myassignment\DigitalMusic - original\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csprojResolveAssemblyReference.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\App.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\App.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\bin\Debug\DigitalMusicAnalysis.exe.config
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\bin\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\bin\Debug\DigitalMusicAnalysis.pdb
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\MainWindow.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\App.g.cs
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\MainWindow.baml
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.g.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.exe
+E:\QUT\Year 3\Semester 2\CAB401\Final Assignment\CAB401_DigitalMusicAnalysis\DigitalMusicAnalysisParallelized\obj\Debug\DigitalMusicAnalysis.pdb
